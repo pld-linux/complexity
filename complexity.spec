@@ -27,7 +27,7 @@ uwagę kilka aspektów nie uwzględnianych w tym schemacie.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 cd src
