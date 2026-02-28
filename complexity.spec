@@ -2,7 +2,7 @@ Summary:	Measure complexity of C source
 Summary(pl.UTF-8):	Mierzenie złożoności kodu źródłowego w C
 Name:		complexity
 Version:	1.13
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Development/Tools
 Source0:	http://ftp.gnu.org/gnu/complexity/%{name}-%{version}.tar.xz
